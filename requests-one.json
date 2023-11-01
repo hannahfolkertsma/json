@@ -1,0 +1,110 @@
+{
+    "response_status": [
+        {
+            "status_code": 2000,
+            "status": "success"
+        }
+    ],
+    "list_info": {
+        "has_more_rows": true,
+        "start_index": 1,
+        "page": 1,
+        "row_count": 1
+    },
+    "requests": [
+        {
+            "requester": {
+                "email_id": "adean@ibm.com",
+                "is_technician": false,
+                "sms_mail": null,
+                "mobile": null,
+                "last_name": "Dean",
+                "user_scope": "internal_user",
+                "sms_mail_id": null,
+                "cost_per_hour": null,
+                "site": {
+                    "deleted": false,
+                    "name": "Base Site",
+                    "id": "134530000015313001",
+                    "is_default": true
+                },
+                "phone": "888-302-4106",
+                "employee_id": null,
+                "name": "Audra Dean",
+                "id": "134530000000341143",
+                "photo_url": "?exp=10&ID=748747137&t=user&height=60&width=60",
+                "is_vip_user": false,
+                "department": {
+                    "site": {
+                        "deleted": false,
+                        "name": "Base Site",
+                        "id": "134530000015313001",
+                        "is_default": true
+                    },
+                    "name": "Operations Department",
+                    "id": "134530000000341141"
+                },
+                "first_name": "Audra",
+                "job_title": "Senior Operations Administrator"
+            },
+            "template": {
+                "name": "Infrastructure Support Request",
+                "id": "134530000000360308"
+            },
+            "created_time": {
+                "display_value": "Oct 21, 2019 01:20 PM",
+                "value": "1571678400000"
+            },
+            "has_draft": false,
+            "cancel_flag_comments": null,
+            "display_id": "11856",
+            "subject": "Fund classifications / instrument types",
+            "technician": {
+                "email_id": "psmith@ibm.com",
+                "is_technician": true,
+                "sms_mail": null,
+                "mobile": "888-424-3738",
+                "last_name": "Smith",
+                "user_scope": "internal_user",
+                "sms_mail_id": null,
+                "cost_per_hour": "250",
+                "site": {
+                    "id": "134530000015313001"
+                },
+                "phone": "888-302-4114",
+                "employee_id": null,
+                "name": "Patrice Smith",
+                "id": "134530000000341872",
+                "is_vip_user": false,
+                "photo_url": "?exp=10&ID=748747802&t=user&height=60&width=60",
+                "department": {
+                    "id": "134530000000341230"
+                },
+                "first_name": "Patrice",
+                "job_title": "Head of Banking Applications & Development"
+            },
+            "due_by_time": null,
+            "is_service_request": false,
+            "cancellation_requested": false,
+            "has_notes": false,
+            "id": "134530000000886695",
+            "maintenance": null,
+            "status": {
+                "in_progress": false,
+                "internal_name": "Closed",
+                "stop_timer": false,
+                "color": "#006600",
+                "name": "Closed",
+                "id": "134530000000006661"
+            },
+            "group": {
+                "site": {
+                    "id": "134530000015313001"
+                },
+                "deleted": false,
+                "name": "Banking Application Support",
+                "id": "134530000000360118"
+            }
+        }
+    ]
+}
